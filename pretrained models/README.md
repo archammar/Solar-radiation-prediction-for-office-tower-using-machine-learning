@@ -1,7 +1,7 @@
 # Instructions
 1. The pretrained neural netwrok model can be run in GH_NN_integration.ipynb for the prediction tasks. 
 2.  The pretrained neural netwrok model can be run in GH_DT_integration.ipynb for the prediction tasks.
-3.  The inputs can be given as a list as per the example shown below.
+3.  The inputs can be given as a list under the vvariable name '_input' as per the example shown below.
 
 _input = [   <br />
 12.0, # --> Hours <br />
@@ -38,7 +38,6 @@ _input = [   <br />
 [-57.4, -45.0, 2.0], # --> Coordinate: 23  <br />
 [-57.4, -45.0, 1.2], # --> Coordinate: 24  <br />
 [-57.4, -45.0, 0.4]  # --> Coordinate: 25  <br />
-
 ]  <br />
 4. More testing cases can be add by appending to the python list -- '_input'
   
