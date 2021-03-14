@@ -1,8 +1,8 @@
 # Instructions
 The pretrained neural netwrok model can be run in GH_NN_integration.ipynb for the prediction tasks. The inputs can be given as a list as per the example shown below.
 
-_input = [12.0,
-1,
+_input = [12.0, <br />
+1, <br />
 2,
 1,
 2,
