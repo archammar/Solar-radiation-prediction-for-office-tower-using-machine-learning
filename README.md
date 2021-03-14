@@ -5,3 +5,5 @@ This repository contains the grass-hopper files and jupyter-notebooks for the pr
 
 
 ## Instructions
+1. The data folder contains the simulation data used to build the machine learning models.
+2. The pretrained models are stored in the folder ML models. 
