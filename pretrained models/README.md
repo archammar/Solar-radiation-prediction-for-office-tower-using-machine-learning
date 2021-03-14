@@ -39,5 +39,5 @@ _input = [   <br />
 [-57.4, -45.0, 1.2], # --> Coordinate: 24  <br />
 [-57.4, -45.0, 0.4]  # --> Coordinate: 25  <br />
 ]  <br />
-4. More testing cases can be add by appending to the python list - '_input'
+ 
   
