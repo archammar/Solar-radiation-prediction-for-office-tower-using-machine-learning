@@ -5,10 +5,10 @@
 
 _input = [   <br />
 12.0, # --> Hours <br />
-1, # --> B00 value <br />
-2, # --> B01 value  <br />
-1, # --> B02 value  <br />
-2, # --> B03 value  <br />
+1, # --> Building Context 00 <br />
+2, # --> Building Context 01  <br />
+1, # --> Building Context 02 <br />
+2, # --> Building Context 03  <br />
 9.0, # --> Month  <br />
 1, # --> Facade floor level <br />
 0.0, # --> Orientation <br />
