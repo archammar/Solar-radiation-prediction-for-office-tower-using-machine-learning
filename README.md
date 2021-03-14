@@ -6,4 +6,5 @@ This repository contains the grass-hopper files for testing new scenarios and ju
 
 ## Instructions
 1. The data folder contains the simulation data used to build the machine learning models.
-2. The pretrained models are stored in the folder ML models. 
+2. The grasshopper folder contains Rhino file corresponding to the new scenarios and grasshopper file for making the predictions.
+3. The pretrained models folder contain the pretrained ML codes in jupyter-notebooks for making the predictions of new cases. 
