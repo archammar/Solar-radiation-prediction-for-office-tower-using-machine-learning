@@ -7,7 +7,8 @@ This repository contains the grass-hopper files for testing new scenarios and ju
 ## Contents in the folder
 1. The data folder contains the simulation data used to build the machine learning models.
 2. The grasshopper folder contains Rhino file corresponding to the new scenarios and Grasshopper file for making the solar radiation predictions using decision tree surrogate model.
-3. The pretrained models folder contain the pretrained ML codes in jupyter-notebooks for making the predictions of new cases. 
+3. The models folder contains the  codes of the machine learning models used to train on the simulation data.
+4. The pretrained models folder contain the pretrained ML codes in jupyter-notebooks for making the predictions of new cases. 
 
 ## Instructions to predict solar radiation in Grasshopper using GH_CPython 
 1. The data used for machine learning model training can be downloaded from this link:
