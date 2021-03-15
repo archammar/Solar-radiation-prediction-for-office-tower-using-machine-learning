@@ -54,7 +54,7 @@ _input = [   <br />
 [-57.4, -45.0, 1.2], # --> Coordinate: 24  <br />
 [-57.4, -45.0, 0.4]  # --> Coordinate: 25  <br />
 ]  <br />
-5. More number of prediction  cases can be added  by appending to the python list - '_input'
+5. More number of prediction  cases can be added  by appending to the python list - '_input'  <br />
 6. Decision tree model file can be downloaded from this link: 
-https://cf-my.sharepoint.com/:f:/r/personal/alammara_cardiff_ac_uk/Documents/Prediction%20Models?csf=1&web=1&e=g8Uevw
+https://cf-my.sharepoint.com/:f:/r/personal/alammara_cardiff_ac_uk/Documents/Prediction%20Models?csf=1&web=1&e=g8Uevw  <br />
 7. Inside GH_CPython module, in line 62 the path to simulation data has to be given and in line 190, the path to the DT model file has to be given.
