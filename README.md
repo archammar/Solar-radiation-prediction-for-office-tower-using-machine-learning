@@ -11,11 +11,12 @@ This repository contains the grass-hopper files for testing new scenarios and ju
 4. The pretrained models folder contain the pretrained ML codes in jupyter-notebooks for making the predictions of new cases. 
 
 ## Instructions to predict solar radiation in Grasshopper using GH_CPython 
-1. The data used for machine learning model training can be downloaded from this link:
+1. The Rhino software version used is 5 and has to be "run as administrator" while opening.
+2. The data used for machine learning model training can be downloaded from this link:
 
-2. The pretrained neural netwrok model can be run in GH_NN_integration.ipynb for the prediction tasks. 
-3. The pretrained neural netwrok model can be run in GH_DT_integration.ipynb for the prediction tasks.
-4. The inputs can be given as a list under the variable name '_input' as per the example shown below.
+3. The pretrained neural netwrok model can be run in GH_NN_integration.ipynb for the prediction tasks. 
+4. The pretrained neural netwrok model can be run in GH_DT_integration.ipynb for the prediction tasks.
+5. The inputs in grasshopper file can be given as a list under the variable name '_input' as per the example shown below.
 
 _input = [   <br />
 12.0, # --> Hours <br />
@@ -56,3 +57,4 @@ _input = [   <br />
 5. More number of prediction  cases can be added  by appending to the python list - '_input'
 6. Decision tree model file can be downloaded from this link: 
 https://cf-my.sharepoint.com/:f:/r/personal/alammara_cardiff_ac_uk/Documents/Prediction%20Models?csf=1&web=1&e=g8Uevw
+7. Inside GH_CPython module, in line 62 the path to simulation data has to be given and in line 190, the path to the DT model file has to be given.
